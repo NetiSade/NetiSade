@@ -9,7 +9,8 @@ Hi 👋 I’m Neti. I build full-stack mobile experiences with a focus on clean 
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uwCezN4t) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neti_sade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/netisade) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/net_sade) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/neti__s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:netisade@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/netisade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:netisade@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uwCezN4t) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neti_sade) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/neti__s)
 
 ---
 
