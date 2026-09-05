@@ -38,7 +38,7 @@ My GitHub is a playground for small projects that make my everyday life a little
 
 ### 🤖 AI-assisted
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![cmux](https://img.shields.io/badge/cmux-blue?style=for-the-badge)
 
 ### 🛠️ DevOps & Tools
 
